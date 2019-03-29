@@ -209,5 +209,5 @@ h6{
 }
 
 h6:hover{
-    text-decoration: underline;
+    /* text-decoration: underline; */
 }
